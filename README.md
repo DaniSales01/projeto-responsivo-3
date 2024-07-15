@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=css-logo" />
 <br>
 <br>
-<aside>
+
   <img src="https://github.com/DaniSales01/projeto-responsivo-3/blob/master/assets/we-care-desktop.png?raw=true">
-  <img src="
-</aside>
+  <img src="https://github.com/DaniSales01/projeto-responsivo-3/blob/master/assets/we-care-mobile.png?raw=true">
+
